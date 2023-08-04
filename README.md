@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Mysticpasta1/Mysticpasta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on mods and modpack for Minecraft Java edition
+📫 How to reach me: HauntedPasta1 on discord
+😄 Pronouns: He/Him or We/Us/Our
 
-Here are some ideas to get you started:
+###  Minecraft Coding - Weather Enthusiast — Game Coder :D
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mysticpasta1&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysticpasta1&theme=dark&layout=compact" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Join me on my Discord
+https://discord.gg/Axe4aZCT6u
+
+## Youtube account
+https://www.youtube.com/@Mysticpasta1
