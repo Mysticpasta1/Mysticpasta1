@@ -5,9 +5,8 @@
 😄 Pronouns: He/Him or We/Us/Our
 
 ###  Minecraft Coding - Weather Enthusiast — Game Coder :D
-![Mysticpasta1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticpasta1&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mysticpasta1&layout=pie)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Mysticpasta1's Stats" src="https://github-stats.tonimatas.dev/api?username=Mysticpasta1&show_icons=true&include_all_commits=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&theme=synthwave"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Mysticpasta1's Projects" src="https://github-stats.tonimatas.dev/api/top-langs/?username=Mysticpasta1&layout=pie&theme=synthwave"></a> |
 
 ## Join me on my Discord
 https://discord.gg/Axe4aZCT6u
