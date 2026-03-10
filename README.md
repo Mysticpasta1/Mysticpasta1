@@ -1,8 +1,8 @@
 # Hi there 👋
 
 🔭 I’m currently working on mods and modpack for Minecraft Java edition
-📫 How to reach me: HauntedPasta1 on discord
-😄 Pronouns: He/Him or We/Us/Our
+📫 How to reach me: Mysticpasta1 on discord
+😄 Pronouns: He/Him
 
 ###  Minecraft Coding - Weather Enthusiast — Game Coder :D
 
